@@ -2,6 +2,7 @@
   "name": "test-project-x",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://adithyanks2000.github.io/my-portfolio/",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "cra-template": "1.2.0",
